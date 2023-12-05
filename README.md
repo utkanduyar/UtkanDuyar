@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben Utkan DUYAR</h1>
+<h1 align="center">Hi 👋, I'm Utkan DUYAR</h1>
 <h3 align="center">21 y/o software dev, based in Istanbul TR / Kopenhag, Denmark.</h3>
 
 - 📫 You can contact me by mail. **contact@utkanduyar.com**
