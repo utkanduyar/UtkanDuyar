@@ -16,3 +16,16 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkanduyar&show_icons=true&locale=en&layout=compact" alt="utkanduyar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkanduyar&" alt="utkanduyar" /></p>
+
+<p align = "left"> <a href = "https://twitter.com/duyar_utkan" target = "blank"><img src = "https://img.shields.io/twitter/follow/duyar_utkan? logo=twitter&style=for-the-badge" alt = "duyar_utkan" /></a> </p>
+
+<h3 align = "left">Benimle bağlantı kurun:</h3>
+<p align = "left">
+< a href = "https://twitter.com/duyar_utkan" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/ master/src/images/icons/Social/twitter.svg" alt = "duyar_utkan" height = "30" width = "40" /></a> </p>
+<
+
+h3 align = "left"> Diller ve Araçlar :</h3>
+<p align = "left"> <a href = "https://symfony.com" target = "_blank" rel = "noreferrer"> <img src = "https://symfony.com/ logos/symfony_black_03.svg" alt = "symfony" width = "40" height = "40"/> </a> </p> <p>
+
+ <img align = "center" src = "https:// github-readme-stats.vercel.app/api?username=utkanduyar&show_icons=true&locale=tr" alt="utkanduyar" /></p>
+
